@@ -1,0 +1,14 @@
+# FastQC reports
+results/
+
+# STAR index
+reference/STAR_index/
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+
+# Temporary files
+*.tmp
+*.log
