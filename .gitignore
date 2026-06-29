@@ -1,6 +1,9 @@
 # FastQC reports
 results/
 
+# Reference genome
+reference/
+
 # STAR index
 reference/STAR_index/
 
