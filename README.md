@@ -113,7 +113,10 @@ By completing this project, you will learn how to:
 * Process SAM/BAM files using SAMtools
 * Generate gene count matrices using featureCounts
 * Perform differential gene expression analysis using DESeq2
+---
+##License
 
+This project is released under the MIT License.
 ---
 
 ## Notes
