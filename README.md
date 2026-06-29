@@ -12,7 +12,7 @@ This repository contains a step-by-step RNA-seq pipeline covering:
 * Read Alignment using STAR
 * SAM/BAM Processing using SAMtools
 * Gene Read Counting using featureCounts
-* Differential Gene Expression Analysis using DESeq2
+
 
 ---
 
