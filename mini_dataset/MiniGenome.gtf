@@ -1,0 +1,5 @@
+MiniChr1	Teaching	gene	1	120	.	+	.	gene_id "GeneA"; gene_name "GeneA";
+MiniChr1	Teaching	exon	1	120	.	+	.	gene_id "GeneA"; transcript_id "GeneA.1"; exon_number "1";
+
+MiniChr1	Teaching	gene	180	320	.	+	.	gene_id "GeneB"; gene_name "GeneB";
+MiniChr1	Teaching	exon	180	320	.	+	.	gene_id "GeneB"; transcript_id "GeneB.1"; exon_number "1";

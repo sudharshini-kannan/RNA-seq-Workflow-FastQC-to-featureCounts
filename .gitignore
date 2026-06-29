@@ -15,3 +15,8 @@ reference/STAR_index/
 # Temporary files
 *.tmp
 *.log
+
+mini_dataset/star_index/
+mini_dataset/star_index/
+mini_dataset/alignment/
+mini_dataset/counts/
