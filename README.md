@@ -1,4 +1,4 @@
-# RNA-seq Training
+# RNA-seq-Workflow-FastQC-to-featureCounts
 
 A hands-on RNA-seq training project designed for beginners to learn the complete RNA-seq analysis workflow using Linux command-line tools.
 
