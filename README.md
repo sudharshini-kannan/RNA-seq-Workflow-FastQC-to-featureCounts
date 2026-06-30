@@ -57,7 +57,8 @@ bash scripts/02_trimming.sh
 bash scripts/03_reference_download.sh
 bash scripts/04_star_index.sh
 bash scripts/05_alignment.sh
-bash scripts/06_featureCounts.sh
+bash scripts/06_samtools.sh
+bash scripts/07_featureCounts.sh
 ```
 
 ---
